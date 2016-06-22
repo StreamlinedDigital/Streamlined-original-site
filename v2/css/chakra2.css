@@ -1,0 +1,62 @@
+
+.big-quote {
+	background: #333;
+	padding: 100px ;
+	position: relative;
+	z-index: 99;	
+	text-align: left;	 
+}
+
+.big-quote p {
+	font-size: 2em;
+	color: #FFFFFF;
+}
+
+
+.big-quote small {color:#0094da;}
+
+/* ==================================================
+   Service Section
+================================================== */
+
+.services-box {
+	text-align: center;
+}
+
+.services-box .icon {
+	background: #DE5E60;
+    display: inline-block;
+    height: 160px;
+    position: relative;
+    width: 160px;
+	margin-bottom: 40px;
+	
+	-webkit-border-radius: 999px;
+	-moz-border-radius: 999px;
+	border-radius: 999px;
+}
+
+.services-box .icon span {
+	color: #FFFFFF;
+	font-size: 60px;
+	line-height: 160px;	
+}
+
+
+/* ==================================================
+   Map
+================================================== */
+
+#map-area {
+	width: 100%;	
+}
+
+.map {
+	height: 600px;	
+}
+
+.skinny{
+	padding-left:50px;
+	padding-right:50px;
+}
+.center{text-align: middle;}
